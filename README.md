@@ -18,7 +18,7 @@ El primer ejercicio consiste en la implementación de un CRUD (Crear, Leer, Actu
 
 Adjunto se encuentra el diagrama de clases que representa la estructura del sistema:
 
-![Diagrama de Clases](company.jpg)
+![Diagrama de Clases](Company.jpg)
 
 ## Ejercicio 2: División Recursiva
 
