@@ -1,6 +1,3 @@
-Claro, aquí tienes un ejemplo de README para tu repositorio:
-
----
 
 # Ejercicios de Aplicaciones Móviles con Kotlin
 
@@ -21,7 +18,7 @@ El primer ejercicio consiste en la implementación de un CRUD (Crear, Leer, Actu
 
 Adjunto se encuentra el diagrama de clases que representa la estructura del sistema:
 
-![Diagrama de Clases](diagrama_clases_ejercicio1.png)
+![Diagrama de Clases](company.jpg)
 
 ## Ejercicio 2: División Recursiva
 
